@@ -1,0 +1,27 @@
+Variable Name,Description
+year,Year of the attacks
+country,Name of the country
+attacks.aimed.at,"If the attacks were aimed at attaining a political, economic, religious, or social goal"
+region,Region the country is in
+latitude,Latitude of the country
+longitude,Longitude of the country
+attackstype1,Describes what type of attacks were on the country
+attackstype2,"If multiple attacks, describes what type of attack two were on the country"
+attackstype3,"If multiple attacks, describes what type of attack three was on the country"
+weaptype1,Describes what weapon was used for the attacks
+targtype1,Describes what entity the attacks were targetting 
+perpetrator.name,Name of the perpetrator's group
+number.participating.perpetrators,Number of perpetrators participating in the attacks 
+number.perpetrators.captured,Number of perpetrators that were capturing in the attacks
+number.killed,Number of people killed in the attacks including attackers and victims 
+number.US.killed,Number of US citizens killed in the attacks
+number.perpetrators.killed,Number of perpetrators killed in the attacks
+number.injured,Number of people injured in the attacks including attackers and victims 
+number.US.injured,Number of US citizens injured in the attacks 
+number.perpetrators.injured,Number of perpetrators injured in the attacks
+damage.property.value,Value of property damage caused by the attacks
+number.hostages.kidnappings,Number of hostages and/or kidnappings in the attack
+number.hostages.kidnappings.US,Number of US citizen hostages and/or kidnappings in the attack
+hours.hostage.kidnap,Hours hostage/kidnap victims were held by attackers
+days.hostage.kidnap,Days hostage/kidnap victims were held by attackers
+ransom.paid,How much ransom was paid for a hostage/kidnap victim 
